@@ -1,5 +1,6 @@
 <?php
 return [
+    'comics' =>[
   [
       "thumb" => "https://www.coverbrowser.com/image/action-comics/1-1.jpg",
       "price" => "$19.99",
@@ -72,4 +73,5 @@ return [
       "series" => "Catwoman",
       "type" => "graphic novel"
   ]
+    ]
 ];
