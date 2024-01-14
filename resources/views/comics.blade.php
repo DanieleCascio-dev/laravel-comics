@@ -15,8 +15,8 @@
         </div>
         @endforeach
       </div>
-      <div class="btn">
-        <AppButton content="LOAD MORE" color="blue" />
+      <div class="_btn">
+        <a class="blue" href="">LOAD MORE</a>
       </div>
     </div>
   </div>

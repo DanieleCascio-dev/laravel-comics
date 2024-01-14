@@ -1,5 +1,30 @@
 <?php
 return [
+    'dcComics'=> [
+        "Characters",
+        "comics",
+        "Movies",
+        "TV",
+        "Games",
+        "Videos",
+        "News",
+      ],
+      'shop'=> ["Shop DC", "Shop DC Collectables"],
+      'DC'=> [
+        "Terms of use",
+        "Privacy policy(New)",
+        "Ad Choice",
+        "Advertising",
+        "Jobs",
+        "Subscriptions",
+        "Talent Workshops",
+        "CPSC Certificates",
+        "Ratings",
+        "Shop Help",
+        "Contact Us",
+      ],
+      'sites'=> ["DC", "MAD Magazine", "DC Kids", "DC Universe", "DC Power Visa"],
+    
     'comics' =>[
   [
       "thumb" => "https://www.coverbrowser.com/image/action-comics/1-1.jpg",
